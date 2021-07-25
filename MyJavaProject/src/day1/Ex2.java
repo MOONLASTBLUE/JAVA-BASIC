@@ -52,6 +52,8 @@ public class Ex2 {
 		 
 		 // 로그인하려면 아이디, 비밀번호 두개가 꼭 동시에 맞아야 함
 		 // 수학 and : && / or : || (shift+원화표시 누르면 나타남)
-		 boolean check6 = id.equals(id2) && pw.equals(pw2);
+		 boolean check6 = id.equals(id) && pw.equals(pw);
+		 System.out.println(check6);
+		 
 	}
 }
