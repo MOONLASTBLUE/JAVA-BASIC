@@ -1,5 +1,6 @@
+package day2;
 
-public class Number {
+public class Datatype {
 
 	public static void main(String[] args) {
 		//Operator(연산자)
